@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/budgetman/static/css/main.3786633a.chunk.css",
+    "main.js": "/budgetman/static/js/main.beca2fcd.chunk.js",
+    "main.js.map": "/budgetman/static/js/main.beca2fcd.chunk.js.map",
+    "runtime-main.js": "/budgetman/static/js/runtime-main.b38d9d92.js",
+    "runtime-main.js.map": "/budgetman/static/js/runtime-main.b38d9d92.js.map",
+    "static/js/2.ee8f51fc.chunk.js": "/budgetman/static/js/2.ee8f51fc.chunk.js",
+    "static/js/2.ee8f51fc.chunk.js.map": "/budgetman/static/js/2.ee8f51fc.chunk.js.map",
+    "static/js/3.b8a50a68.chunk.js": "/budgetman/static/js/3.b8a50a68.chunk.js",
+    "static/js/3.b8a50a68.chunk.js.map": "/budgetman/static/js/3.b8a50a68.chunk.js.map",
+    "index.html": "/budgetman/index.html",
+    "static/css/main.3786633a.chunk.css.map": "/budgetman/static/css/main.3786633a.chunk.css.map",
+    "static/js/2.ee8f51fc.chunk.js.LICENSE.txt": "/budgetman/static/js/2.ee8f51fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b38d9d92.js",
+    "static/js/2.ee8f51fc.chunk.js",
+    "static/css/main.3786633a.chunk.css",
+    "static/js/main.beca2fcd.chunk.js"
+  ]
+}
